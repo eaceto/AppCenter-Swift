@@ -1,0 +1,6 @@
+framework module AppCenterAPIClient {
+  umbrella header "AppCenterAPIClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
