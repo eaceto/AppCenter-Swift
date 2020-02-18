@@ -1,0 +1,29 @@
+# AppCenterAPIClient
+
+[![CI Status](https://img.shields.io/travis/eaceto/AppCenterAPIClient.svg?style=flat)](https://travis-ci.org/eaceto/AppCenterAPIClient)
+[![Version](https://img.shields.io/cocoapods/v/AppCenterAPIClient.svg?style=flat)](https://cocoapods.org/pods/AppCenterAPIClient)
+[![License](https://img.shields.io/cocoapods/l/AppCenterAPIClient.svg?style=flat)](https://cocoapods.org/pods/AppCenterAPIClient)
+[![Platform](https://img.shields.io/cocoapods/p/AppCenterAPIClient.svg?style=flat)](https://cocoapods.org/pods/AppCenterAPIClient)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+AppCenterAPIClient is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'AppCenterAPIClient'
+```
+
+## Author
+
+eaceto, ezequiel.aceto@gmail.com
+
+## License
+
+AppCenterAPIClient is available under the MIT license. See the LICENSE file for more info.
